@@ -1,4 +1,5 @@
-# NewYears_Countdown
-Countdown to New Years Eve
+# 10 javascript apps challenge
 
-https://xenia21.github.io/NewYears_Countdown/
+#1 Countdown to New Years Eve
+
+An app created with javascript, hosted on github page https://xenia21.github.io/NewYears_Countdown/ . 
